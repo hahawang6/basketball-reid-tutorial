@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.pytest_cache/
+data/
+weights/
+outputs/
+*.pth
+*.pt
+*.npz
+*.mp4
+*.zip
+*.log
+training.local.json
+runs/
